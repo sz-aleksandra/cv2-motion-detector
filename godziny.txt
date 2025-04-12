@@ -1,0 +1,10 @@
+Godzina rozpoczęcia wzmożonej aktywności:
+7
+Godzina rozpoczęcia ograniczonej aktywności:
+17
+Godzina gwarantowanego zamknięcia biura:
+22
+
+Godziny muszą przechodzić w formie:
+wzmożona -> ograniczona -> zamknięcie -> wzmożona -> ...
+Północ należy zapisywać jako godzinę 0.

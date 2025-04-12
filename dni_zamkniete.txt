@@ -1,0 +1,4 @@
+Dni zamknięte:
+sobota, niedziela
+
+Dni powinny być zapisane w drugiej linii i oddzielone przecinkiem.
